@@ -11,7 +11,7 @@ i'm an 18-year-old student diving deep into mathematics, physics, computation, a
 🎯 **interests**  
 - theoretical cs, algorithms, and optimization  
 - quantum computing & physics  
-- human behavior, psychology, and the nature of intelligence  
+- human behavior, psychology, and the nature of intelligence and concsiousness
 - music theory, guitar, and piano 🎸🎹  
 
 📖 **currently working on**  
