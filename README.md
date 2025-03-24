@@ -21,9 +21,7 @@ i'm an 18-year-old student diving deep into mathematics, physics, computation, a
 💭 **philosophy**  
 i believe in pushing beyond mediocrity. complexity and depth drive me, and i admire those who challenge the limits of understanding.  
 
-📫 **let’s connect**  
-- [github](https://github.com/vasig)  
-- [email](mailto:your-email@example.com) *(if comfortable sharing)*  
+- [email](mailto:agvasig19@gmail.com) *(if comfortable sharing)*  
 
 
 <!---
