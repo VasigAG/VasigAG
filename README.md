@@ -1,7 +1,7 @@
 # hey, i'm vasig 👋  
 
 🚀 **ambitious. relentless. obsessed with mastery.**  
-i'm an 18-year-old student diving deep into mathematics, physics, computation, and algorithms. currently preparing for jee advanced, with an unshakable focus on deep understanding and technical precision.  
+i'm an 18-year-old student diving deep into mathematics, physics, computation, and algorithms.
 
 💡 **what i do**  
 - exploring machine learning, quantum mechanics, and computational theory  
