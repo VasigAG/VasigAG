@@ -1,6 +1,6 @@
 # Hey, I'm **Vasig**  
 
-I'm a student diving deep into mathematics, physics and computation.
+I'm a student diving deep into mathematics, physics and computational theory.
 In a very interesting phase of my life.
 
 **What I wanna Do:**  
