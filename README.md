@@ -5,7 +5,7 @@ In a very interesting phase of my life.
 
 **What I wanna Do:**  
 - Explore math, physics, machine learning, quantum computing, and computational theory  
-- Obsess over perfection in deep understanding of the universe, creative agency and problem solving.
+- Obsess over perfection in deep understanding of the universe and creative agency.
 
 **Other Interests:**  
 - Human behavior, psychology, and the nature of intelligence and consciousness  
